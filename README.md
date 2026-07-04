@@ -35,7 +35,7 @@ Projekt vznikl jako školní úkol zaměřený na práci s PDF dokumenty a vytvo
 ### 1. Naklonování repozitáře
 
 ```bash
-git clone https://github.com/Shindy33/PDF-Watermark-Tool
+git clone https://github.com/Shindy33/PDF-Watermark-Tool.git
 cd PDF-Watermark-Tool
 ```
 
